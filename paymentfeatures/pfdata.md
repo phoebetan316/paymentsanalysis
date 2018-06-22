@@ -17,7 +17,7 @@ A sub-merchant is a merchant whose payment services are provided by a Payment Fa
 An [ISO](https://usa.visa.com/content/dam/VCOM/download/merchants/tpa-registration-program-faqs.pdf) (independent selling organisation/ member service provider) acts as an authorised agent for the bank to market merchant accounts and is also directly registered with both Visa and MasterCard. ISOs tend to resell the products or services of one or multiple acquirers, hence are able to provide merchants with a wider variety of solutions compared to the acquirers themselves. They can also develop their own or aggregate other value added products and services. 
 Refer [here](https://storekit.com/advice/uk-payments-industry/) for a list of ISOs and Payment Facilitators.
 
-![]()
+![](.../paymentsanalysis/paymentfeatures/payments_pathway(PFv2).png)
 
 Most [card schemes](https://usa.visa.com/dam/VCOM/download/merchants/02-MAY-2014-Visa-Payment-FacilitatorModel.pdf) establish a clear set of responsibilities for all program participants as outlined in the
 following table: 
