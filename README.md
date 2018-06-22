@@ -51,7 +51,7 @@ This analysis is broken down into these categories:
 -	Types of merchants that use the feature
 
 
-Find out more about this analysis [here](/paymentfeatures/index).
+Find out more about this analysis [here](https://github.com/phoebetan316/paymentsanalysis/blob/master/paymentfeatures/index.md).
 
 
 ## Competitor view and future state
